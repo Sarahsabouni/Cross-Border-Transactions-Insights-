@@ -28,7 +28,7 @@ This project provides an in-depth analysis of wire transactions across the US, C
 ## Instructions to Access
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Wire-Transaction-Analysis.git
+   git clone https://github.com/Sarahsabouni/Wire-Transaction-Analysis.git
    ```
 
 2. **Open the Power BI Desktop File**:
@@ -57,4 +57,4 @@ This project provides an in-depth analysis of wire transactions across the US, C
 - **Data Transformation**: The transaction amounts were converted to CAD using the monthly exchange rates from the Canadian bank to ensure consistency in reporting.
 
 ## Contact
-For any questions or issues, please reach out to [your contact email].
+For any questions or issues, please reach out to [sarahsabouni0@gmail.com].
