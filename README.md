@@ -1,4 +1,4 @@
-# Cross-Border-Transactions-Insights-
+# Cross-Border-Transactions-Insights
 
 ## Overview
 This project provides an in-depth analysis of wire transactions across the US, Canada, and Mexico using Power BI. The aim is to uncover insights into transaction patterns, trends, and key factors influencing transaction amounts. The data spans over the last two years and includes inbound and outbound transactions, sender and receiver countries, transaction amounts, and message types.
